@@ -1,7 +1,7 @@
 ### SQL Data Analysis - Online Store Database
 
 <br>
-The SQL files included in this repository don't follow a step-by-step comprehensive analysis of the dataset, but rather <b> showcase the use of common T-SQL techniques for extracting insight from data. </b>
+The SQL files included in this repository <b> showcase the use of common T-SQL techniques for extracting insight from data. </b> 
 <br><br>
 
 > You can find all the database files here (download All Code Files): https://www.wiley.com/en-ca/Data+Analysis+Using+SQL+and+Excel%2C+2nd+Edition-p-9781119021438. It accompanies the book "Data Analysis Using SQL and Excel, 2nd Edition" , by Gordon S. Linoff.
